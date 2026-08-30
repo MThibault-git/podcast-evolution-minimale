@@ -1,0 +1,507 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Évolution minimale - CFM Radio (non officiel)</title>
+    <link>https://www.cfmradio.fr/emissions/evolution-minimale</link>
+    <description>Flux non officiel généré automatiquement à partir du site cfmradio.fr</description>
+    <language>fr-fr</language>
+    <itunes:image href="https://www.cfmradio.fr/_img/__upload//1000015472jpg@00d_1300.jpg" />
+    <lastBuildDate>Sun, 30 Aug 2026 09:23:18 +0000</lastBuildDate>
+
+    <item>
+      <title>Plus de club jeune</title>
+      <link>https://www.cfmradio.fr/plus-de-club-jeune</link>
+      <guid isPermaLink="true">https://www.cfmradio.fr/plus-de-club-jeune</guid>
+      <pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Aujourd’hui nous recevons un invité : Noah, alias éclair fou, pour un super freestyle !  Toujours beaucoup de rap !  Belle salade musicale, bonne écoute.</description>
+      <enclosure url="https://www.cfmradio.fr/_img/__upload/vlf-evomini260701@cdb.mp3" type="audio/mpeg" />
+      <itunes:duration>59 min</itunes:duration>
+    </item>
+    <item>
+      <title>Dans tes accoudoirs !</title>
+      <link>https://www.cfmradio.fr/dans-tes-accoudoirs-</link>
+      <guid isPermaLink="true">https://www.cfmradio.fr/dans-tes-accoudoirs-</guid>
+      <pubDate>Wed, 24 Jun 2026 00:00:00 +0000</pubDate>
+      <description>Encore une super émission, toujours beaucoup de nouveautés.  Quelle belle mixture de rap!  Ambiancé par Remirex.  Bonne écoute !</description>
+      <enclosure url="https://www.cfmradio.fr/_img/__upload/vlf-evomini260624@a47.mp3" type="audio/mpeg" />
+      <itunes:duration>58 min</itunes:duration>
+    </item>
+    <item>
+      <title>On se réchauffe les mains !</title>
+      <link>https://www.cfmradio.fr/on-se-rechauffe-les-mains-</link>
+      <guid isPermaLink="true">https://www.cfmradio.fr/on-se-rechauffe-les-mains-</guid>
+      <pubDate>Wed, 10 Jun 2026 00:00:00 +0000</pubDate>
+      <description>On se cale sur le son en caleçon.  On a planté l’hameçon.  Avec émotion ! Sur la motion !!  On se réchauffe les mains !  Bonne écoute.</description>
+      <enclosure url="https://media.cfmradio.fr/deportage/vlf-evomini260610@62a.mp3" type="audio/mpeg" />
+      <itunes:duration>59 min</itunes:duration>
+    </item>
+    <item>
+      <title>L’éclair</title>
+      <link>https://www.cfmradio.fr/l-eclair</link>
+      <guid isPermaLink="true">https://www.cfmradio.fr/l-eclair</guid>
+      <pubDate>Wed, 20 May 2026 00:00:00 +0000</pubDate>
+      <description>Tout est clair, limpide ! Le meilleur de l’actu musicale Rap ! Rémirex et bigponps lancent des éclairs. Quelle belle ambiance ! Idéal, à écouter avant de partir en soirée    Bonne écoute !</description>
+      <enclosure url="https://www.cfmradio.fr/_img/__upload/vlf-evomini260304@029.mp3" type="audio/mpeg" />
+      <itunes:duration>10 min</itunes:duration>
+    </item>
+    <item>
+      <title>Multiprise galaxy</title>
+      <link>https://www.cfmradio.fr/multiprise-galaxy</link>
+      <guid isPermaLink="true">https://www.cfmradio.fr/multiprise-galaxy</guid>
+      <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
+      <description>Des nouveautés, du bon son rap et afro, encore !  De beaux clins d’oeil, un fil conducteur, un bel univers bien hip-hop.  Y a comme de l’électricité dans l’air !  Connectez-vous !</description>
+      <enclosure url="https://media.cfmradio.fr/deportage/vlf-evomini-260204@8df.mp3" type="audio/mpeg" />
+      <itunes:duration>59 min</itunes:duration>
+    </item>
+    <item>
+      <title>Bruit Collage !</title>
+      <link>https://www.cfmradio.fr/bruit-collage-</link>
+      <guid isPermaLink="true">https://www.cfmradio.fr/bruit-collage-</guid>
+      <pubDate>Wed, 06 May 2026 00:00:00 +0000</pubDate>
+      <description>Rémirex et Bigponps toujours là pour bien ambiancer !  Du rap ! Des afro-beats ! Des nouveautés !  Bon bruit collage à tous !  Et à vos playlists !</description>
+      <enclosure url="https://media.cfmradio.fr/deportage/vlf-evomini260506@41b.mp3" type="audio/mpeg" />
+      <itunes:duration>59 min</itunes:duration>
+    </item>
+    <item>
+      <title>Club jeune !</title>
+      <link>https://www.cfmradio.fr/club-jeune-</link>
+      <guid isPermaLink="true">https://www.cfmradio.fr/club-jeune-</guid>
+      <pubDate>Wed, 29 Apr 2026 00:00:00 +0000</pubDate>
+      <description>Toujours du rap, et des afro beats !  L’actuatualité musicale du moment !  Un beau freestyle du fiston !  Un maximum de son !  Bonne écoute !</description>
+      <enclosure url="https://media.cfmradio.fr/deportage/vlf-evomini260429@0c5.mp3" type="audio/mpeg" />
+      <itunes:duration>1 h 3 min</itunes:duration>
+    </item>
+    <item>
+      <title>Dans le studio</title>
+      <link>https://www.cfmradio.fr/dans-le-studio</link>
+      <guid isPermaLink="true">https://www.cfmradio.fr/dans-le-studio</guid>
+      <pubDate>Wed, 22 Apr 2026 00:00:00 +0000</pubDate>
+      <description>Du Rap du Rap et du Rap ! Des afro beats toujours au rendez-vous !  Beaucoup de nouveautés !  Bien ambiancé !  Quelle belle salade musicale !  Tous à vos postes radio yo !!</description>
+      <enclosure url="https://media.cfmradio.fr/deportage/vlf-evomini260422@6f8.mp3" type="audio/mpeg" />
+      <itunes:duration>59 min</itunes:duration>
+    </item>
+    <item>
+      <title>On s’amuse</title>
+      <link>https://www.cfmradio.fr/on-s-amuse</link>
+      <guid isPermaLink="true">https://www.cfmradio.fr/on-s-amuse</guid>
+      <pubDate>Wed, 15 Apr 2026 00:00:00 +0000</pubDate>
+      <description>Toujours beaucoup de Rap !  Des nouveautés...  Deux animateurs bien chauds !  Et à bomber !  Yallahh!  Bonne écoute !</description>
+      <enclosure url="https://media.cfmradio.fr/deportage/vlf-evomini260415@2ca.mp3" type="audio/mpeg" />
+      <itunes:duration>58 min</itunes:duration>
+    </item>
+    <item>
+      <title>Revoir un printemps</title>
+      <link>https://www.cfmradio.fr/revoir-un-printemps</link>
+      <guid isPermaLink="true">https://www.cfmradio.fr/revoir-un-printemps</guid>
+      <pubDate>Wed, 08 Apr 2026 00:00:00 +0000</pubDate>
+      <description>Yo c’est le printemps !  Les fleurs fleurissent !  Il fait bon, le temps est doux !  Beaucoup de Dancehall aujourd’hui.  Amusez-vous bien !!</description>
+      <enclosure url="https://media.cfmradio.fr/deportage/vlf-evomini260408@ef6.mp3" type="audio/mpeg" />
+      <itunes:duration>59 min</itunes:duration>
+    </item>
+    <item>
+      <title>L’atelier</title>
+      <link>https://www.cfmradio.fr/l-atelier</link>
+      <guid isPermaLink="true">https://www.cfmradio.fr/l-atelier</guid>
+      <pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
+      <description>Encore plus de rap toujours !  Les actus musicales rap et Afrobeat !  Des nouveautés !!  Bonne écoute !</description>
+      <enclosure url="https://media.cfmradio.fr/deportage/vlf-evomini260401@06a.mp3" type="audio/mpeg" />
+      <itunes:duration>10 min</itunes:duration>
+    </item>
+    <item>
+      <title>Au labo !!</title>
+      <link>https://www.cfmradio.fr/au-labo-</link>
+      <guid isPermaLink="true">https://www.cfmradio.fr/au-labo-</guid>
+      <pubDate>Wed, 25 Mar 2026 00:00:00 +0000</pubDate>
+      <description>Encore une super émission, avec toujours beaucoup de rap ! Ouvrez les oreilles ! Bigponps et Remirex enjaillent ! Bonne écoute à vous !</description>
+      <enclosure url="https://media.cfmradio.fr/deportage/vlf-evomini260325@646.mp3" type="audio/mpeg" />
+      <itunes:duration>58 min</itunes:duration>
+    </item>
+    <item>
+      <title>Le foudroyeur sonore</title>
+      <link>https://www.cfmradio.fr/le-foudroyeur-sonore</link>
+      <guid isPermaLink="true">https://www.cfmradio.fr/le-foudroyeur-sonore</guid>
+      <pubDate>Wed, 14 Jan 2026 00:00:00 +0000</pubDate>
+      <description>Super émission!  L’actualité Rap au rendez-vous!!  Presque que des nouveautés!  Kiffant jusqu’à se casser les oreilles dans le casque!  Bonne écoute!!</description>
+      <enclosure url="https://media.cfmradio.fr/deportage/vlf-evomini-260114@a4a.mp3" type="audio/mpeg" />
+      <itunes:duration>59 min</itunes:duration>
+    </item>
+    <item>
+      <title>C’est la rentrée !</title>
+      <link>https://www.cfmradio.fr/c-est-la-rentree--26377</link>
+      <guid isPermaLink="true">https://www.cfmradio.fr/c-est-la-rentree--26377</guid>
+      <pubDate>Wed, 07 Jan 2026 00:00:00 +0000</pubDate>
+      <description>Quel enthousiasme ! Une émission bien barrée avec presque que des nouveautés. L’actualité musicale à cette saison a été très bien fournie.  Alors, tous à vos postes pour un voyage radiophonique. Une playlist déjantée! Un instant pour se réunir en musique! Avec Bigponps et Rémirex, beaucoup de Rap aujourd’hui !</description>
+      <enclosure url="https://media.cfmradio.fr/deportage/vlf-evomini260107@fc5.mp3" type="audio/mpeg" />
+      <itunes:duration>59 min</itunes:duration>
+    </item>
+    <item>
+      <title>Abracadabra</title>
+      <link>https://www.cfmradio.fr/abracadabra</link>
+      <guid isPermaLink="true">https://www.cfmradio.fr/abracadabra</guid>
+      <pubDate>Wed, 17 Dec 2025 00:00:00 +0000</pubDate>
+      <description>On avance du plus petit degré d’intervalle possible de capacité...  Toujours bien rap!  On écoute pleins de nouveautés.  Les derniers sons du moment.  Des futurs classiques...  Et la magie opère.</description>
+      <enclosure url="https://media.cfmradio.fr/deportage/vlf-evomini251217re241218@0d4.mp3" type="audio/mpeg" />
+      <itunes:duration>58 min</itunes:duration>
+    </item>
+    <item>
+      <title>Tout azimut !</title>
+      <link>https://www.cfmradio.fr/tout-azimut-</link>
+      <guid isPermaLink="true">https://www.cfmradio.fr/tout-azimut-</guid>
+      <pubDate>Wed, 03 Dec 2025 00:00:00 +0000</pubDate>
+      <description>Une super émission !  Le retour de l’afro-beat!  Des nouveautés!  Bonne écoute.</description>
+      <enclosure url="https://media.cfmradio.fr/deportage/vlc-evomini251203--42@3fe.mp3" type="audio/mpeg" />
+      <itunes:duration>57 min</itunes:duration>
+    </item>
+    <item>
+      <title>Playlist de dingue !</title>
+      <link>https://www.cfmradio.fr/playlist-de-dingue-</link>
+      <guid isPermaLink="true">https://www.cfmradio.fr/playlist-de-dingue-</guid>
+      <pubDate>Wed, 26 Nov 2025 00:00:00 +0000</pubDate>
+      <description>Toujours du rap !  Toujours des tubes!  La kiffance, la transe!  Encore!  Et en coeur!</description>
+      <enclosure url="https://media.cfmradio.fr/deportage/vlf-evomini251126@6c2.mp3" type="audio/mpeg" />
+      <itunes:duration>58 min</itunes:duration>
+    </item>
+    <item>
+      <title>Badabam</title>
+      <link>https://www.cfmradio.fr/badabam</link>
+      <guid isPermaLink="true">https://www.cfmradio.fr/badabam</guid>
+      <pubDate>Wed, 19 Nov 2025 00:00:00 +0000</pubDate>
+      <description>Une super émission, encore!  Quelle belle playlist !!  Beaucoup de rap, beaucoup de styles.  Entre nouveautés et classiques !!  Des tubes...  Renversant !</description>
+      <enclosure url="https://media.cfmradio.fr/deportage/vlf-evomini251119@098.mp3" type="audio/mpeg" />
+      <itunes:duration>58 min</itunes:duration>
+    </item>
+    <item>
+      <title>Sur les ondes</title>
+      <link>https://www.cfmradio.fr/sur-les-ondes</link>
+      <guid isPermaLink="true">https://www.cfmradio.fr/sur-les-ondes</guid>
+      <pubDate>Wed, 12 Nov 2025 00:00:00 +0000</pubDate>
+      <description>Une émission déjantée !  Toujours et encore beaucoup de rap, mais pas que.. .  Le rendez-vous hebdomadaire.  Quelle belle salade musicale, sur les ondes !</description>
+      <enclosure url="https://media.cfmradio.fr/deportage/vlf-evomini251112@20d.mp3" type="audio/mpeg" />
+      <itunes:duration>59 min</itunes:duration>
+    </item>
+    <item>
+      <title>On s’enjaille</title>
+      <link>https://www.cfmradio.fr/on-s-enjaille</link>
+      <guid isPermaLink="true">https://www.cfmradio.fr/on-s-enjaille</guid>
+      <pubDate>Wed, 05 Nov 2025 00:00:00 +0000</pubDate>
+      <description>Une émission déjantée,  RAP AFRO BEAT à gogo !!  Quelle belle ambiance!  toujours au rendez-vous!  Sur les ondes... On s’enjaille!!</description>
+      <enclosure url="https://media.cfmradio.fr/deportage/vlf-evomini250521@8eb.mp3" type="audio/mpeg" />
+      <itunes:duration>58 min</itunes:duration>
+    </item>
+    <item>
+      <title>À vos shakers !</title>
+      <link>https://www.cfmradio.fr/a-vos-shakers-</link>
+      <guid isPermaLink="true">https://www.cfmradio.fr/a-vos-shakers-</guid>
+      <pubDate>Wed, 29 Oct 2025 00:00:00 +0000</pubDate>
+      <description>Toujours là, sur les ondes 90.2 !  Encore beaucoup de rap !  Deux animateurs enjaillants !  Des news songs !!  yo!</description>
+      <enclosure url="https://media.cfmradio.fr/deportage/vlf-evomini251029@a82.mp3" type="audio/mpeg" />
+      <itunes:duration>1 h 1 min</itunes:duration>
+    </item>
+    <item>
+      <title>C’est comme à la maison !</title>
+      <link>https://www.cfmradio.fr/c-est-comme-a-la-maison-</link>
+      <guid isPermaLink="true">https://www.cfmradio.fr/c-est-comme-a-la-maison-</guid>
+      <pubDate>Wed, 22 Oct 2025 00:00:00 +0000</pubDate>
+      <description>Toujours du rap !  Beaucoup de nouveautés !  Des tubes !!  Le meilleur du rap, encore !  Radio Occitanie !</description>
+      <enclosure url="https://media.cfmradio.fr/deportage/vlf-evomini251022@b1f.mp3" type="audio/mpeg" />
+      <itunes:duration>58 min</itunes:duration>
+    </item>
+    <item>
+      <title>Bresson son</title>
+      <link>https://www.cfmradio.fr/bresson-son</link>
+      <guid isPermaLink="true">https://www.cfmradio.fr/bresson-son</guid>
+      <pubDate>Thu, 16 Oct 2025 00:00:00 +0000</pubDate>
+      <description>Quelle émission, encore !!  Du rap, du rap, et du rap !  Bien ambiancé !  Bonne écoute !!!</description>
+      <enclosure url="https://media.cfmradio.fr/deportage/vlf-evomini251015@270.mp3" type="audio/mpeg" />
+      <itunes:duration>58 min</itunes:duration>
+    </item>
+    <item>
+      <title>Mixture Rap</title>
+      <link>https://www.cfmradio.fr/mixture-rap</link>
+      <guid isPermaLink="true">https://www.cfmradio.fr/mixture-rap</guid>
+      <pubDate>Wed, 08 Oct 2025 00:00:00 +0000</pubDate>
+      <description>Un gros mix Rap !  Deux animateurs enjaillant !  À vos shakers !</description>
+      <enclosure url="https://media.cfmradio.fr/deportage/vlf-evomini251008@8ef.mp3" type="audio/mpeg" />
+      <itunes:duration>58 min</itunes:duration>
+    </item>
+    <item>
+      <title>Et hop! c’est la rentrée</title>
+      <link>https://www.cfmradio.fr/et-hop-c-est-la-rentree</link>
+      <guid isPermaLink="true">https://www.cfmradio.fr/et-hop-c-est-la-rentree</guid>
+      <pubDate>Wed, 01 Oct 2025 00:00:00 +0000</pubDate>
+      <description>Dans cette émission, on écoute beaucoup de rap! Beaucoup de nouveauté!  Et des sons de l’été!</description>
+      <enclosure url="https://media.cfmradio.fr/deportage/vlf-evomini251001@fdc.mp3" type="audio/mpeg" />
+      <itunes:duration>59 min</itunes:duration>
+    </item>
+    <item>
+      <title>Colgate</title>
+      <link>https://www.cfmradio.fr/colgate</link>
+      <guid isPermaLink="true">https://www.cfmradio.fr/colgate</guid>
+      <pubDate>Wed, 02 Jul 2025 00:00:00 +0000</pubDate>
+      <description>Encore et toujours une émission déjantée!  De tubes en tubes, des nouveautés ! Du neuf ! Des news musicales !!  Une recette rap afro-beat !!  Tous à vos dentifrices !!!</description>
+      <enclosure url="https://media.cfmradio.fr/deportage/vlf-evomini250702@0a4.mp3" type="audio/mpeg" />
+      <itunes:duration>57 min</itunes:duration>
+    </item>
+    <item>
+      <title>Ça décoiffe</title>
+      <link>https://www.cfmradio.fr/a-decoiffe-</link>
+      <guid isPermaLink="true">https://www.cfmradio.fr/a-decoiffe-</guid>
+      <pubDate>Fri, 20 Jun 2025 00:00:00 +0000</pubDate>
+      <description>Le vent, l’air, un souffle, une respiration,  il faut pousser la chanson !  Ça décoiffe !!  Du rap, des afro-beats, encore beaucoup de nouveautés !  Des futurs classiques...</description>
+      <enclosure url="https://media.cfmradio.fr/deportage/vlf-evomini250618@6be.mp3" type="audio/mpeg" />
+      <itunes:duration>58 min</itunes:duration>
+    </item>
+    <item>
+      <title>Les infiltrés</title>
+      <link>https://www.cfmradio.fr/les-infiltres</link>
+      <guid isPermaLink="true">https://www.cfmradio.fr/les-infiltres</guid>
+      <pubDate>Wed, 23 Apr 2025 00:00:00 +0000</pubDate>
+      <description>Les infiltrés sur les ondes!  Encore beaucoup des nouveautés!  Beaucoup de rap!  la tendance du moment, toujours à l’écoute!  belle tartiflette musicale!</description>
+      <enclosure url="https://media.cfmradio.fr/deportage/vlf-evomini250423@591.mp3" type="audio/mpeg" />
+      <itunes:duration>59 min</itunes:duration>
+    </item>
+    <item>
+      <title>Bailando</title>
+      <link>https://www.cfmradio.fr/bailando</link>
+      <guid isPermaLink="true">https://www.cfmradio.fr/bailando</guid>
+      <pubDate>Thu, 10 Apr 2025 00:00:00 +0000</pubDate>
+      <description>Beaucoup de soleil musical encore aujourd’hui!! Beaucoup de nouveauté!!</description>
+      <enclosure url="https://media.cfmradio.fr/deportage/vlf-evomini250409@5a6.mp3" type="audio/mpeg" />
+      <itunes:duration>58 min</itunes:duration>
+    </item>
+    <item>
+      <title>Ça brille</title>
+      <link>https://www.cfmradio.fr/a-brille</link>
+      <guid isPermaLink="true">https://www.cfmradio.fr/a-brille</guid>
+      <pubDate>Wed, 26 Mar 2025 00:00:00 +0000</pubDate>
+      <description>Quelle belle émission aujourd’hui!  Une super playlist.  Bigponps et Remirex, toujours pour ambiancer!!  Tout au long de la nuit...  Rap et Afro-beat!!  La recette magique!</description>
+      <enclosure url="https://media.cfmradio.fr/deportage/vlf-evomini250326@b63.mp3" type="audio/mpeg" />
+      <itunes:duration>58 min</itunes:duration>
+    </item>
+    <item>
+      <title>Printemps</title>
+      <link>https://www.cfmradio.fr/printemps</link>
+      <guid isPermaLink="true">https://www.cfmradio.fr/printemps</guid>
+      <pubDate>Thu, 20 Mar 2025 00:00:00 +0000</pubDate>
+      <description>Bienvenue dans évolution minimale!  Une émission musicale toujours aussi dingue!  Afro-beat - Rap, pour l’essentiel!  Tony Bigpomps et Rémi Rex partagent leurs kiffances du moment...  Tous, la tête dans les baffles yo!!  c’est la fête!!  bonne écoute...</description>
+      <enclosure url="https://media.cfmradio.fr/deportage/vlf-evomini250319@efd.mp3" type="audio/mpeg" />
+      <itunes:duration>57 min</itunes:duration>
+    </item>
+    <item>
+      <title>Soleil</title>
+      <link>https://www.cfmradio.fr/soleil-23114</link>
+      <guid isPermaLink="true">https://www.cfmradio.fr/soleil-23114</guid>
+      <pubDate>Fri, 28 Feb 2025 00:00:00 +0000</pubDate>
+      <description>Une emission déjanté!  Une heure de folie, en musique.  Encore! Beaucoup de nouveautés...  C’est la fête!  Il y a du soleil!</description>
+      <enclosure url="https://media.cfmradio.fr/deportage/vlf-evomini250226@62a.mp3" type="audio/mpeg" />
+      <itunes:duration>58 min</itunes:duration>
+    </item>
+    <item>
+      <title>Microprocessus</title>
+      <link>https://www.cfmradio.fr/microprocessus</link>
+      <guid isPermaLink="true">https://www.cfmradio.fr/microprocessus</guid>
+      <pubDate>Wed, 05 Feb 2025 00:00:00 +0000</pubDate>
+      <description>Super playlist !!  Afro Rap !  Des nouveautés à gogo,  Flash Cabriole au micro !  Microprocessus !!  Processus minimum...  Un maximum de bons sons !!  Bonne écoute !</description>
+      <enclosure url="https://media.cfmradio.fr/deportage/vlf-evomini250205@f6e.mp3" type="audio/mpeg" />
+      <itunes:duration>58 min</itunes:duration>
+    </item>
+    <item>
+      <title>Le Before</title>
+      <link>https://www.cfmradio.fr/le-before</link>
+      <guid isPermaLink="true">https://www.cfmradio.fr/le-before</guid>
+      <pubDate>Thu, 16 Jan 2025 00:00:00 +0000</pubDate>
+      <description>Evolution minimale ! Quelle émission !  A écouter en début de soirée !  A l’apéro par exemple !  Pour se mettre bien, sur des bonnes ondes !  Avant d’aller danser !  Un peu comme un before !  Bonne écoute à tous !</description>
+      <enclosure url="https://media.cfmradio.fr/deportage/vlf-evomini250115@bdb.mp3" type="audio/mpeg" />
+      <itunes:duration>58 min</itunes:duration>
+    </item>
+    <item>
+      <title>En coeur</title>
+      <link>https://www.cfmradio.fr/en-coeur</link>
+      <guid isPermaLink="true">https://www.cfmradio.fr/en-coeur</guid>
+      <pubDate>Wed, 08 Jan 2025 00:00:00 +0000</pubDate>
+      <description>Tony Bigponps et Rémi Rex présentent des musiques de rap pour la nouvelle année 2025!  Encore une fois une émission dégantée...  Meilleurs voeux!  Encore de la radio en coeur!!!</description>
+      <enclosure url="https://media.cfmradio.fr/deportage/vlf-evomini250108@053.mp3" type="audio/mpeg" />
+      <itunes:duration>59 min</itunes:duration>
+    </item>
+    <item>
+      <title>Ça fait du bien plaisir</title>
+      <link>https://www.cfmradio.fr/a-fait-du-bien-plaisir</link>
+      <guid isPermaLink="true">https://www.cfmradio.fr/a-fait-du-bien-plaisir</guid>
+      <pubDate>Wed, 13 Nov 2024 00:00:00 +0000</pubDate>
+      <description>Bienvenue dans le club!  On écoute des bons sons encore et toujours...  C’est hip - hop!  des hologrammes auditifs.  Sur les bonnes ondes!</description>
+      <enclosure url="https://media.cfmradio.fr/deportage/vlf-evomini241113@172.mp3" type="audio/mpeg" />
+      <itunes:duration>59 min</itunes:duration>
+    </item>
+    <item>
+      <title>Discothèque party</title>
+      <link>https://www.cfmradio.fr/discotheque-party</link>
+      <guid isPermaLink="true">https://www.cfmradio.fr/discotheque-party</guid>
+      <pubDate>Wed, 06 Nov 2024 00:00:00 +0000</pubDate>
+      <description>On est bien tranquille!  On écoute une playlist de dingue...  Toujours Afro-beat, et Rap!!!  Un listing qui fait du bien plaisir.  Les lumières dans le multifacettes.  Musique, musique ; la logique du jour.</description>
+      <enclosure url="https://media.cfmradio.fr/deportage/vlf-evomini241106@6f4.mp3" type="audio/mpeg" />
+      <itunes:duration>59 min</itunes:duration>
+    </item>
+    <item>
+      <title>Dans la Doloréan</title>
+      <link>https://www.cfmradio.fr/dans-la-dolorean</link>
+      <guid isPermaLink="true">https://www.cfmradio.fr/dans-la-dolorean</guid>
+      <pubDate>Wed, 30 Oct 2024 00:00:00 +0000</pubDate>
+      <description>Ça fuse plus vite que dans une voiture!  Le temps passe plus vite si on provient du futur...  Aucun décalage horaire, c’est comme à la radio!  Bonne évolution minimale à tous !!</description>
+      <enclosure url="https://media.cfmradio.fr/deportage/vlf-evomini241030@3f4.mp3" type="audio/mpeg" />
+      <itunes:duration>10 min</itunes:duration>
+    </item>
+    <item>
+      <title>C’est la Zone !</title>
+      <link>https://www.cfmradio.fr/cest-la-zone-</link>
+      <guid isPermaLink="true">https://www.cfmradio.fr/cest-la-zone-</guid>
+      <pubDate>Thu, 24 Oct 2024 00:00:00 +0000</pubDate>
+      <description>Dans la place, on est là;  on envoie du lourd!  On enregistre des playlists.  Afro-beat, et Rap!  Welcome!!  Dans tes accoudoirs tu peux pas t’assoir!  Tu montes le son...</description>
+      <enclosure url="https://media.cfmradio.fr/deportage/vlf-evomini241023@438.mp3" type="audio/mpeg" />
+      <itunes:duration>59 min</itunes:duration>
+    </item>
+    <item>
+      <title>Dans la cabine</title>
+      <link>https://www.cfmradio.fr/dans-la-cabine</link>
+      <guid isPermaLink="true">https://www.cfmradio.fr/dans-la-cabine</guid>
+      <pubDate>Fri, 11 Oct 2024 00:00:00 +0000</pubDate>
+      <description>C’est la rentrée !!  Bienvenue dans la cabine   De tout acabit, Tony Bigponps et Rémi Rex sont de retour à la radio pour passer un maximum de bon son (afrobeat, rap, et autres)!  Rendez-vous chaque semaine, pour partager ensemble des musiques incroyables !  Des nouveautés, des zicmu plus anciens, undergrounds, ou très connues, il y en a pour tous les goûts !  Bonne écoute ! Amusez-vous !</description>
+      <enclosure url="https://media.cfmradio.fr/deportage/vlf-evomini241009@dec.mp3" type="audio/mpeg" />
+      <itunes:duration>58 min</itunes:duration>
+    </item>
+    <item>
+      <title>C’est l’été</title>
+      <link>https://www.cfmradio.fr/cest-lete</link>
+      <guid isPermaLink="true">https://www.cfmradio.fr/cest-lete</guid>
+      <pubDate>Wed, 26 Jun 2024 00:00:00 +0000</pubDate>
+      <description>On relève le niveau fort ce soir avec des afro-beat et du rap!!  Du soleil!  Musique musique!!  Logique du jour: musique!  On écoute faham!!</description>
+      <enclosure url="https://media.cfmradio.fr/deportage/vlf-evomini240626@6e1.mp3" type="audio/mpeg" />
+      <itunes:duration>57 min</itunes:duration>
+    </item>
+    <item>
+      <title>Les visiteurs</title>
+      <link>https://www.cfmradio.fr/les-visiteurs</link>
+      <guid isPermaLink="true">https://www.cfmradio.fr/les-visiteurs</guid>
+      <pubDate>Wed, 24 Apr 2024 00:00:00 +0000</pubDate>
+      <description>Une playlist un peu dingue!  Des nouveautés...  Des musiques afro...  Du rap!!  Toujours bien ambiancé.</description>
+      <enclosure url="https://media.cfmradio.fr/deportage/vlf-evomini240424@3bb.mp3" type="audio/mpeg" />
+      <itunes:duration>58 min</itunes:duration>
+    </item>
+    <item>
+      <title>Sur le dancefloor</title>
+      <link>https://www.cfmradio.fr/sur-le-dancefloor</link>
+      <guid isPermaLink="true">https://www.cfmradio.fr/sur-le-dancefloor</guid>
+      <pubDate>Wed, 10 Apr 2024 00:00:00 +0000</pubDate>
+      <description>On se déchaine, on n’a plus de chaines!  On est libéré!  On écoute de la musique à gogo toujours rai, afro-beat, rap, etc...</description>
+      <enclosure url="https://media.cfmradio.fr/deportage/vlf-evomini240410@65d.mp3" type="audio/mpeg" />
+      <itunes:duration>59 min</itunes:duration>
+    </item>
+    <item>
+      <title>Soirée bonne</title>
+      <link>https://www.cfmradio.fr/soiree-bonne</link>
+      <guid isPermaLink="true">https://www.cfmradio.fr/soiree-bonne</guid>
+      <pubDate>Thu, 14 Mar 2024 00:00:00 +0000</pubDate>
+      <description>Une émission un peu folle remplit de sons provenant de tous les horizons!  On écoute encore beaucoup de musiques africaines, et des îles...  Des musiques autant traditionnelles que modernes.  De l’afro-beat, du raï, du reggae, du rap!!   Belle mixture sonore!</description>
+      <enclosure url="https://media.cfmradio.fr/deportage/vlf-evomini240313@42e.mp3" type="audio/mpeg" />
+      <itunes:duration>59 min</itunes:duration>
+    </item>
+    <item>
+      <title>Le grand bal</title>
+      <link>https://www.cfmradio.fr/le-grand-bal</link>
+      <guid isPermaLink="true">https://www.cfmradio.fr/le-grand-bal</guid>
+      <pubDate>Wed, 14 Feb 2024 00:00:00 +0000</pubDate>
+      <description>Une nouvelle playlist farcie de musique Afro, Raï, reggae, rap!  Avec la participation de 46 croc</description>
+      <enclosure url="https://media.cfmradio.fr/deportage/vlf-evomini240214@a3c.mp3" type="audio/mpeg" />
+      <itunes:duration>57 min</itunes:duration>
+    </item>
+    <item>
+      <title>dans la boîte</title>
+      <link>https://www.cfmradio.fr/dans-la-boite</link>
+      <guid isPermaLink="true">https://www.cfmradio.fr/dans-la-boite</guid>
+      <pubDate>Wed, 07 Feb 2024 00:00:00 +0000</pubDate>
+      <description>Des nouveautés, des musiques indé! Africa song, classic rap!! Belle Salade Musicale!! Une playlist de dingue!</description>
+      <enclosure url="https://media.cfmradio.fr/deportage/vlf-evomini240207@10b.mp3" type="audio/mpeg" />
+      <itunes:duration>10 min</itunes:duration>
+    </item>
+    <item>
+      <title>Les fêtes</title>
+      <link>https://www.cfmradio.fr/les-fetes</link>
+      <guid isPermaLink="true">https://www.cfmradio.fr/les-fetes</guid>
+      <pubDate>Wed, 17 Jan 2024 00:00:00 +0000</pubDate>
+      <description>Une nouvelle année peinture nature pour la team d’Évolution Minimale! Au programme de cette première de l’année, raï, ragga, afro-beat, reggae, rap !</description>
+      <enclosure url="https://media.cfmradio.fr/deportage/vlf-evomax240117@5ca.mp3" type="audio/mpeg" />
+      <itunes:duration>59 min</itunes:duration>
+    </item>
+    <item>
+      <title>La reprise</title>
+      <link>https://www.cfmradio.fr/la-reprise</link>
+      <guid isPermaLink="true">https://www.cfmradio.fr/la-reprise</guid>
+      <pubDate>Wed, 13 Dec 2023 00:00:00 +0000</pubDate>
+      <description>Avec au programme Afro beat Reggae Rap ! Plein de boom boom pour en prendre plein les oreilles! et des amis des réseaux sociaux entre autre houari bouha et rija officiel.</description>
+      <enclosure url="https://media.cfmradio.fr/deportage/vlf-evomini231213@5a0.mp3" type="audio/mpeg" />
+      <itunes:duration>58 min</itunes:duration>
+    </item>
+    <item>
+      <title>Danse</title>
+      <link>https://www.cfmradio.fr/danse</link>
+      <guid isPermaLink="true">https://www.cfmradio.fr/danse</guid>
+      <pubDate>Wed, 12 Jul 2023 00:00:00 +0000</pubDate>
+      <description>Houari bouha la souffrance! musique de tissou rencontré sur les réseaux sociaux! merci tissou! merci les amis! toujours des nouveautés afro!! du reggae!! puis une bonne session rap! maes ninho ivory l’uzine!!!</description>
+      <enclosure url="https://media.cfmradio.fr/deportage/vlf-evomini230712@802.mp3" type="audio/mpeg" />
+      <itunes:duration>58 min</itunes:duration>
+    </item>
+    <item>
+      <title>Soleil</title>
+      <link>https://www.cfmradio.fr/soleil</link>
+      <guid isPermaLink="true">https://www.cfmradio.fr/soleil</guid>
+      <pubDate>Wed, 28 Jun 2023 00:00:00 +0000</pubDate>
+      <description>Il fait chaud! mais on a bien ambiancé on a relevé le niveau sur des sons afro! beaucoup de nouveauté ! du rock de l’afrobeat! du reggae ! du rap! aujourd’hui encore on écoutera une chanson de flash cabriole et granite blizard! (indé) et bien sur des futurs classiques les nouvelles zicmu de sniper et de rhoff!! à retenir yaggfu front - busted loop ( à l’ancienne)</description>
+      <enclosure url="https://media.cfmradio.fr/deportage/vlf-evomini230628@098.mp3" type="audio/mpeg" />
+      <itunes:duration>58 min</itunes:duration>
+    </item>
+    <item>
+      <title>Toujours ambiancé</title>
+      <link>https://www.cfmradio.fr/toujours-ambiance</link>
+      <guid isPermaLink="true">https://www.cfmradio.fr/toujours-ambiance</guid>
+      <pubDate>Wed, 21 Jun 2023 00:00:00 +0000</pubDate>
+      <description>Des nouveautés afrobeat! flash cabriole et granite blizard! on écoutera leur collab! grosse session rap aujourd’hui!!</description>
+      <enclosure url="https://media.cfmradio.fr/deportage/vlf-evomini230621@2ad.mp3" type="audio/mpeg" />
+      <itunes:duration>57 min</itunes:duration>
+    </item>
+    <item>
+      <title>Chocho radio</title>
+      <link>https://www.cfmradio.fr/chocho-radio</link>
+      <guid isPermaLink="true">https://www.cfmradio.fr/chocho-radio</guid>
+      <pubDate>Wed, 17 May 2023 00:00:00 +0000</pubDate>
+      <description>Aujourd’hui titan et flash présentent l’émission! Au programme gnf de côte d’ivoire (nfp) ombre rouge (caravan prod), toujours du rap du rap et du rap!</description>
+      <enclosure url="https://media.cfmradio.fr/deportage/vlf-evomax230517@142.mp3" type="audio/mpeg" />
+      <itunes:duration>58 min</itunes:duration>
+    </item>
+    <item>
+      <title>Ok chorale</title>
+      <link>https://www.cfmradio.fr/ok-chorale</link>
+      <guid isPermaLink="true">https://www.cfmradio.fr/ok-chorale</guid>
+      <pubDate>Wed, 26 Apr 2023 00:00:00 +0000</pubDate>
+      <description>Aujourd’hui nous sommes nombreux, on accueille dass, thibault, et titan! on écoutera une chanson de NessaNyams (musique indé) du bon rap comme toujours bonne écoute !!</description>
+      <enclosure url="https://media.cfmradio.fr/deportage/vlf-evomini230426@08f.mp3" type="audio/mpeg" />
+      <itunes:duration>58 min</itunes:duration>
+    </item>
+    <item>
+      <title>Crazy</title>
+      <link>https://www.cfmradio.fr/crazy</link>
+      <guid isPermaLink="true">https://www.cfmradio.fr/crazy</guid>
+      <pubDate>Wed, 05 Apr 2023 00:00:00 +0000</pubDate>
+      <description>Afro beat reggae rap une playlist de qualité aujourd’hui nous avons accueilli Sahim au studio pour chanter avec nous à découvrir un morceau de RIJA rencontré sur les réseaux sociaux.</description>
+      <enclosure url="https://media.cfmradio.fr/deportage/vlf-evomini230405@0d7.mp3" type="audio/mpeg" />
+      <itunes:duration>58 min</itunes:duration>
+    </item>
+    <item>
+      <title>Retour vers le futur</title>
+      <link>https://www.cfmradio.fr/retour-vers-le-futur</link>
+      <guid isPermaLink="true">https://www.cfmradio.fr/retour-vers-le-futur</guid>
+      <pubDate>Wed, 22 Feb 2023 00:00:00 +0000</pubDate>
+      <description>Venez voyager à travers l’Afrique et le monde ! Afro beat reggae rap !  A découvrir deux morceaux du nfp (natural fusion people) musiques indépendantes!! Pour toutes les générations!!</description>
+      <enclosure url="https://media.cfmradio.fr/deportage/vlf-evomax230222@bcf.mp3" type="audio/mpeg" />
+      <itunes:duration>58 min</itunes:duration>
+    </item>
+  </channel>
+</rss>
