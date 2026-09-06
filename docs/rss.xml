@@ -6,7 +6,7 @@
     <description>Flux non officiel généré automatiquement à partir du site cfmradio.fr</description>
     <language>fr-fr</language>
     <itunes:image href="https://www.cfmradio.fr/_img/__upload//1000015472jpg@00d_1300.jpg" />
-    <lastBuildDate>Sat, 05 Sep 2026 09:38:59 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 09:54:19 +0000</lastBuildDate>
 
     <item>
       <title>Plus de club jeune</title>
@@ -42,7 +42,7 @@
       <pubDate>Wed, 20 May 2026 00:00:00 +0000</pubDate>
       <description>Tout est clair, limpide ! Le meilleur de l’actu musicale Rap ! Rémirex et bigponps lancent des éclairs. Quelle belle ambiance ! Idéal, à écouter avant de partir en soirée    Bonne écoute !</description>
       <enclosure url="https://www.cfmradio.fr/_img/__upload/vlf-evomini260304@029.mp3" type="audio/mpeg" />
-      <itunes:duration>10 min</itunes:duration>
+      <itunes:duration>1 h 60 min</itunes:duration>
     </item>
     <item>
       <title>Multiprise galaxy</title>
@@ -105,7 +105,7 @@
       <pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
       <description>Encore plus de rap toujours !  Les actus musicales rap et Afrobeat !  Des nouveautés !!  Bonne écoute !</description>
       <enclosure url="https://media.cfmradio.fr/deportage/vlf-evomini260401@06a.mp3" type="audio/mpeg" />
-      <itunes:duration>10 min</itunes:duration>
+      <itunes:duration>1 h 60 min</itunes:duration>
     </item>
     <item>
       <title>Au labo !!</title>
@@ -348,7 +348,7 @@
       <pubDate>Wed, 30 Oct 2024 00:00:00 +0000</pubDate>
       <description>Ça fuse plus vite que dans une voiture!  Le temps passe plus vite si on provient du futur...  Aucun décalage horaire, c’est comme à la radio!  Bonne évolution minimale à tous !!</description>
       <enclosure url="https://media.cfmradio.fr/deportage/vlf-evomini241030@3f4.mp3" type="audio/mpeg" />
-      <itunes:duration>10 min</itunes:duration>
+      <itunes:duration>1 h 60 min</itunes:duration>
     </item>
     <item>
       <title>C’est la Zone !</title>
@@ -420,7 +420,7 @@
       <pubDate>Wed, 07 Feb 2024 00:00:00 +0000</pubDate>
       <description>Des nouveautés, des musiques indé! Africa song, classic rap!! Belle Salade Musicale!! Une playlist de dingue!</description>
       <enclosure url="https://media.cfmradio.fr/deportage/vlf-evomini240207@10b.mp3" type="audio/mpeg" />
-      <itunes:duration>10 min</itunes:duration>
+      <itunes:duration>1 h 60 min</itunes:duration>
     </item>
     <item>
       <title>Les fêtes</title>
