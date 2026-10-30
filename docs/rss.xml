@@ -5,9 +5,18 @@
     <link>https://www.cfmradio.fr/emissions/evolution-minimale</link>
     <description>Flux non officiel généré automatiquement à partir du site cfmradio.fr</description>
     <language>fr-fr</language>
-    <itunes:image href="https://www.cfmradio.fr/_img/__upload//whatsapp-image-2026-10-22-at-180333@4e2_1300.jpg" />
-    <lastBuildDate>Thu, 29 Oct 2026 11:57:45 +0000</lastBuildDate>
+    <itunes:image href="https://www.cfmradio.fr/_img/__upload//whatsapp-image-2026-10-29-at-134813@bb5_1300.jpg" />
+    <lastBuildDate>Fri, 30 Oct 2026 11:51:33 +0000</lastBuildDate>
 
+    <item>
+      <title>1 max de logique</title>
+      <link>https://www.cfmradio.fr/1-max-de-logique</link>
+      <guid isPermaLink="true">https://www.cfmradio.fr/1-max-de-logique</guid>
+      <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Simple, efficace, carré !  On met tout le monde d’accord !  Juste la kiffance, beaucoup de nouveautés rap. C’est comme à la radio ! Je viens faire la fête chez vous !  Bonne écoute !</description>
+      <enclosure url="https://media.cfmradio.fr/deportage/vlf-evomini261028@362.mp3" type="audio/mpeg" />
+      <itunes:duration>58 min</itunes:duration>
+    </item>
     <item>
       <title>Numéro 1 sur le rap</title>
       <link>https://www.cfmradio.fr/numero-1-sur-le-rap</link>
@@ -24,7 +33,7 @@
       <pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate>
       <description>Yo ! C’est la rentrée musicale !  Toujours copié jamais égalé !  On fait cela depuis l’enfance ça fait une distance. La tête dans le casque, amusez-vous bien !   Sacrée ratatouille sonore et tempête de son. Normal. On est là, on ouvre le bal !</description>
       <enclosure url="https://media.cfmradio.fr/deportage/vlf-evomini261007@c6e.mp3" type="audio/mpeg" />
-      <itunes:duration>25 min</itunes:duration>
+      <itunes:duration>50 min</itunes:duration>
     </item>
     <item>
       <title>Plus de club jeune</title>
@@ -32,7 +41,7 @@
       <guid isPermaLink="true">https://www.cfmradio.fr/plus-de-club-jeune</guid>
       <pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
       <description>Aujourd’hui nous recevons un invité : Noah, alias éclair fou, pour un super freestyle !  Toujours beaucoup de rap !  Belle salade musicale, bonne écoute.</description>
-      <enclosure url="https://www.cfmradio.fr/_img/__upload/vlf-evomini260701@cdb.mp3" type="audio/mpeg" />
+      <enclosure url="https://media.cfmradio.fr/deportage/vlf-evomini260701@cdb.mp3" type="audio/mpeg" />
       <itunes:duration>59 min</itunes:duration>
     </item>
     <item>
@@ -41,7 +50,7 @@
       <guid isPermaLink="true">https://www.cfmradio.fr/dans-tes-accoudoirs-</guid>
       <pubDate>Wed, 24 Jun 2026 00:00:00 +0000</pubDate>
       <description>Encore une super émission, toujours beaucoup de nouveautés.  Quelle belle mixture de rap!  Ambiancé par Remirex.  Bonne écoute !</description>
-      <enclosure url="https://www.cfmradio.fr/_img/__upload/vlf-evomini260624@a47.mp3" type="audio/mpeg" />
+      <enclosure url="https://media.cfmradio.fr/deportage/vlf-evomini260624@a47.mp3" type="audio/mpeg" />
       <itunes:duration>58 min</itunes:duration>
     </item>
     <item>
@@ -59,8 +68,8 @@
       <guid isPermaLink="true">https://www.cfmradio.fr/l-eclair</guid>
       <pubDate>Wed, 20 May 2026 00:00:00 +0000</pubDate>
       <description>Tout est clair, limpide ! Le meilleur de l’actu musicale Rap ! Rémirex et bigponps lancent des éclairs. Quelle belle ambiance ! Idéal, à écouter avant de partir en soirée    Bonne écoute !</description>
-      <enclosure url="https://www.cfmradio.fr/_img/__upload/vlf-evomini260304@029.mp3" type="audio/mpeg" />
-      <itunes:duration>25 min</itunes:duration>
+      <enclosure url="https://media.cfmradio.fr/deportage/vlf-evomini260304@029.mp3" type="audio/mpeg" />
+      <itunes:duration>50 min</itunes:duration>
     </item>
     <item>
       <title>Multiprise galaxy</title>
@@ -123,7 +132,7 @@
       <pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
       <description>Encore plus de rap toujours !  Les actus musicales rap et Afrobeat !  Des nouveautés !!  Bonne écoute !</description>
       <enclosure url="https://media.cfmradio.fr/deportage/vlf-evomini260401@06a.mp3" type="audio/mpeg" />
-      <itunes:duration>25 min</itunes:duration>
+      <itunes:duration>50 min</itunes:duration>
     </item>
     <item>
       <title>Au labo !!</title>
@@ -366,7 +375,7 @@
       <pubDate>Wed, 30 Oct 2024 00:00:00 +0000</pubDate>
       <description>Ça fuse plus vite que dans une voiture!  Le temps passe plus vite si on provient du futur...  Aucun décalage horaire, c’est comme à la radio!  Bonne évolution minimale à tous !!</description>
       <enclosure url="https://media.cfmradio.fr/deportage/vlf-evomini241030@3f4.mp3" type="audio/mpeg" />
-      <itunes:duration>25 min</itunes:duration>
+      <itunes:duration>50 min</itunes:duration>
     </item>
     <item>
       <title>C’est la Zone !</title>
@@ -438,7 +447,7 @@
       <pubDate>Wed, 07 Feb 2024 00:00:00 +0000</pubDate>
       <description>Des nouveautés, des musiques indé! Africa song, classic rap!! Belle Salade Musicale!! Une playlist de dingue!</description>
       <enclosure url="https://media.cfmradio.fr/deportage/vlf-evomini240207@10b.mp3" type="audio/mpeg" />
-      <itunes:duration>25 min</itunes:duration>
+      <itunes:duration>50 min</itunes:duration>
     </item>
     <item>
       <title>Les fêtes</title>
